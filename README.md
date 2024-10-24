@@ -1,7 +1,6 @@
 # Analyze order data to identify the most and least popular menu items and types of cuisine
 This project focuses on analyzing order data to identify the most and least popular menu items and cuisine types. 
-The analysis will provide insights into customer preferences, item pricing, and order behavior, helping to improve business decision-making.
-## Objectives 
+The analysis will provide insights into customer preferences, item pricing, and order behavior, helping to improve business decision-making. 
 ### Objective 1
 a.	View the menu_items table and write a query to find the number of items on the menu
 b.	What are the least and most expensive items on the menu?
